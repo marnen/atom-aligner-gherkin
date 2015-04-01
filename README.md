@@ -4,6 +4,6 @@
 Based on [aligner-css](https://github.com/adrianlee44/atom-aligner-css) by Adrian Lee.
 
 ## Installation
-Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
+Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner).
 
 ## Changelog
